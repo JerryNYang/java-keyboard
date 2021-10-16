@@ -8,5 +8,6 @@ class Main {
     String firstName = keyboard.nextLine();  // Read user input
     System.out.println("First name is: " + firstName);  // Output user input
     System.out.println();
+    System.out.println("Reading...Writing");
   }
 }
