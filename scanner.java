@@ -9,6 +9,7 @@ class Main {
     System.out.println("First name is: " + firstName);  // Output user input
     System.out.println();
     System.out.println("Reading...Writing");
-    System.out.prin( " thru the monitor ... keyboard");
+    System.out.println( " thru the monitor ... keyboard");
+    
   }
 }
